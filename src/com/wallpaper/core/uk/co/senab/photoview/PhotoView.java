@@ -15,7 +15,7 @@
  *******************************************************************************/
 package com.wallpaper.core.uk.co.senab.photoview;
 
-import org.carbonware.wallpapers.fifa.BuildConfig;
+import com.rapicdu.fifa.wallpapers.BuildConfig;
 
 import android.content.Context;
 import android.graphics.Matrix;

@@ -39,7 +39,7 @@ import com.wallpaper.core.RestClientHandler.OnRestResponseHandler;
 
 import java.util.ArrayList;
 
-import org.carbonware.wallpapers.fifa.R;
+import com.rapicdu.fifa.wallpapers.R;
 
 import com.google.analytics.tracking.android.EasyTracker;
 import com.google.android.gms.ads.AdRequest;
@@ -68,10 +68,10 @@ public class HomeActivity extends SherlockFragmentActivity implements
 		
 		//////////////////
 		
-		  AdView adView = (AdView) this.findViewById(R.id.adView);
-		    AdRequest adRequest = new AdRequest.Builder().build();
-		    adView.loadAd(adRequest);
-		    
+//		  AdView adView = (AdView) this.findViewById(R.id.adView);
+//		    AdRequest adRequest = new AdRequest.Builder().build();
+//		    adView.loadAd(adRequest);
+//		    
 		//////////////////
 		
 //		    adView = new AdView(this);

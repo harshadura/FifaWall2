@@ -33,7 +33,7 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.OutputStream;
 
-import org.carbonware.wallpapers.fifa.R;
+import com.rapicdu.fifa.wallpapers.R;
 
 public class WallpaperFragment extends SherlockFragment {
 

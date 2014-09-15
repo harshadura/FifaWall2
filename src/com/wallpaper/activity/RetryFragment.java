@@ -1,6 +1,6 @@
 package com.wallpaper.activity;
 
-import org.carbonware.wallpapers.fifa.R;
+import com.rapicdu.fifa.wallpapers.R;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;

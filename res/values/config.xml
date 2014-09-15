@@ -3,7 +3,7 @@
 
     <!-- Customize The URL for the JSON Manifest -->
     <string name="config_wallpaper_manifest_url">
-        https://raw.githubusercontent.com/harshadura/Wallpaper-Manager/master/assets/demo-manifest_2.json
+        https://raw.githubusercontent.com/harshadura/WallpaperApps-Service-Endpoints/master/fifa_wallpapers-app2-manifest.json
     </string>
 
     <!-- Configure The External Storage Directory. Don't include sdcard in the path -->
@@ -37,6 +37,6 @@
 
 
     <!-- App Name -->
-    <string name="app_name">Fifa 2014 Stars Wallpapers</string>
+    <string name="app_name">Fifa Wallpapers</string>
 
 </resources>

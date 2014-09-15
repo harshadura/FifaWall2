@@ -57,7 +57,7 @@ import android.widget.Scroller;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.carbonware.wallpapers.fifa.R;
+import com.rapicdu.fifa.wallpapers.R;
 
 /**
  * Base class that can be used to implement virtualized lists of items. A list

@@ -35,7 +35,7 @@
 
 package com.wallpaper.core.com.jess.ui;
 
-import org.carbonware.wallpapers.fifa.R;
+import com.rapicdu.fifa.wallpapers.R;
 
 import android.content.Context;
 import android.content.res.TypedArray;

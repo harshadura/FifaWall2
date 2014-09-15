@@ -17,7 +17,7 @@ import com.wallpaper.core.com.jess.ui.TwoWayAdapterView;
 
 import java.util.ArrayList;
 
-import org.carbonware.wallpapers.fifa.R;
+import com.rapicdu.fifa.wallpapers.R;
 
 public class CategoryFragment extends GridFragment {
 

@@ -14,7 +14,7 @@ import android.widget.ImageView;
 import java.util.Timer;
 import java.util.TimerTask;
 
-import org.carbonware.wallpapers.fifa.R;
+import com.rapicdu.fifa.wallpapers.R;
 
 /**
  * Displays a splash screen image while and loads an interstitial before starting the application.
@@ -24,7 +24,7 @@ public class SplashScreenActivity extends Activity {
   private static final int WAIT_TIME = 5000;
 
   // Your interstitial ad unit ID.
-  private static final String AD_UNIT_ID = "ca-app-pub-6053431456462596/3029814469";
+  private static final String AD_UNIT_ID = "ca-app-pub-6053431456462596/3704454461";
 
   private InterstitialAd interstitial;
   private Timer waitTimer;
